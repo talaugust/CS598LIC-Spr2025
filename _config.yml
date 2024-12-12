@@ -17,7 +17,7 @@ title: CSE 598 L
 tagline: CSE 598 L
 description: Course on recent advances in computing for augmenting human communication.
 author: Tal August
-baseurl: '/CS598LFall2024' # the subpath of your site, e.g. /blog
+baseurl: 'CS598LIC-Spr2025' # the subpath of your site, e.g. /blog
 url: 'https://talaugust.github.io/' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
