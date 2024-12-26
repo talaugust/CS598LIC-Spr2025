@@ -16,27 +16,34 @@ description: >-
 
 ---
 
-# Reading reflections
-Every class will include assigned readings. For each class, I expect you to write a reading response to the assigned readings, with the exception of classes where we will be presenting or discussing project updates (marked in the schedule). 
+# Reading response
+
+Every class will include assigned readings. For each class, I expect you to write a reading response to one of the assigned readings, with the exception of classes where we will be presenting or discussing project updates (marked in the schedule). 
 
 **Reading responses are due by 7 pm the day before each class**. This is to give the discussion leads time to read the responses and prepare discussion questions for class. There are a total of 16 reading responses, to accommodate conflicting deadlines, emergencies, or anything else that might come up during the semester, **you are allowed to skip 3 reading responses, no questions asked**. You also do **not** need to submit a reading response for the papers you are a discussion lead on.
 
-Submit responses via [Canvas](https://canvas.illinois.edu/courses/48566) discussion. If you are leading a discussion, you do not need to prepare a discussion response (see below for what to prepare if you are leading a discussion). The Canvas discussion will be closed after 7 pm the day before class. If your reading response is not in by then, it will not be graded. 
-
-## Reading reflections format
-
-The reading reflection will be about 2 paragraphs (5-10 sentences), focused on what you learned from the readings, connections to other readings, and critical/thought-provoking questions you had. Please do NOT just provide a summary of the papers. Remember that everyone else will also be reading the same papers. To give you an idea about what a reading response could look like, here are some (non-exhaustive) options:
-
-- Option 1: One paragraph per paper summarizing the contributions of the work(s). Write about potential improvements and how someone could build on the existing work.
-- Option 2: A single paragraph for all papers that fits the papers into an overarching theme. This is not a summary of the papers, but should instead answer questions like: what is the overall topic of the readings? Why are we reading them all together?
-- Option 3: A single paragraph for all papers in the reading list for that day that asks 2-3 thoughtful discussion questions.
-- Option 4: A single paragraph in which you respond to someone else’s reading response (e.g., answer or expand on questions they pose) from the same day.
-- Option 5: Find a new paper that you think builds on one of the readings. Briefly summarize the paper and explain what new ideas it introduces to the current reading. 
+Submit responses via [Canvas]() discussion. If you are leading a discussion, you do not need to prepare a discussion response (see below for what to prepare if you are leading a discussion). The Canvas discussion will be closed after 7 pm the day before class. If your reading response is not in by then, it will not be graded. 
 
 
-Also as a general rule, the reading response is mainly there to help you remember the paper and to help the discussion leader summarize different views. When in doubt, please ask me! Send me an email and I will look at the response.
+## Reading response format
 
-## Reading response grading
+Each reading reflection has **two parts**: reflecting on one of the papers for class that day, and responding to one other classmate’s reflection. 
+
+### Reflection
+The reflection portion will be about 1 paragraph (around 5 sentences), focused on what you learned from one of the readings, connections to other readings, or critical/thought-provoking questions you had. Please do NOT just provide a summary of the paper. Remember that everyone else will also be reading the same papers. To give you an idea about what a reading response could look like, here are some (non-exhaustive) options:
+
+- Option 1: One paragraph summarizing the contributions of the paper. Write about potential improvements and how someone could build on the existing work.
+- Option 2: A single paragraph that describes a theme you noticed in the paper. This is not a summary of the paper, but should instead answer questions like: what is the overall topic of the paper? 
+- Option 3: 2-3 thoughtful discussion questions based on the paper.
+- Option 4: One paragraph reflecting on this paper could aid you in your own research. Given enough of an introduction to your research so that other students will see how the paper fits in with your work.  
+- Option 5: One paragraph introducing a new paper that you think builds on the paper.  Briefly summarize the new paper and explain what new ideas it introduces to the current reading. 
+
+### Response
+Please respond to one other classmate’s reading reflection. This response should be 1 short paragraph (2-3 sentences). Your response can answer questions posed by the original reflection, ask follow-up questions, or reflect on a new paper introduced by the reflection. The response should NOT just say something like “interesting idea” you should include your own thoughts, questions, or ideas in the response.  
+
+Also as a general rule, the reading reflections are mainly there to help you remember the paper and to help the discussion leader summarize different views. When in doubt, please ask me! Send me an email and I will look at the response.
+
+### Reading response grading
 Reading responses will be graded on 0-3 point scale. As noted above, you may pass on 3 of the reading responses. Any additional missed responses will receive a 0. 
 
 	3 points = the reading response satisfies one of the options above, is 5-10 sentences in length, well-written, and thought-provoking (i.e., you got some ideas from it).
@@ -48,47 +55,57 @@ The options for reading responses mentioned above will be equally graded.
 
 
 # Leading a class discussion
+
 Each week, a pair of students will lead the class in a ~1 hour discussion of the assigned papers for that week. You are expected to sign up to be a discussion lead once during the semester. Your responsibilities for a discussion lead are:
 
 - Read and understand the assigned papers that week along with any supporting material that you think would provide helpful background. Please also read the optional readings for that day, if any.
-- Present a 10-12 minute talk on the papers. Summarize the papers’ key ideas, research questions, methodology, and findings.
-- - Lead a class activity based on the papers, followed by a discussion of the reading responses that week.
-To keep the discussion going, read all reading responses by the other students that week and integrate them into the discussion. You should prepare 8-10 discussion questions about the papers. These should be creative questions that do not have easy answers. The questions should be the result of your attempts to understand the material, its implications, and its connections with other work. 
-- Double-check with the instructor **at least 24 hours before class** regarding your proposed group activity and the contents of your slides. This does not need to include your responses to reading responses. We will be able to provide feedback if you send us the materials the day before class.
+- Summarize the papers’ key ideas, research questions, methodology, and findings. This should be a maximum of 10-12 minutes for both papers combined.
+- Lead a class activity based on the papers. 
+- Lead a discussion of the readings based on the reflections that day. 
+
+Double-check with the instructor **at least 24 hours before class** regarding your proposed group activity and the contents of your slides. This does not need to include your responses to reading responses. 
+
+
 
 Below are ideas for group activities and general questions from past classes. Here are some group activities that worked well in prior classes:
+
 - Role-playing activities: have students within groups analyze the same problem/question by assuming different roles as stakeholders: e.g., writers, news reporters, artists, patients or caregivers, moderators, developers, researchers, policy makers.
 - Design activities: have students come up with new design ideas for additions/modifications to a tool or solution. How do we redesign existing applications, or design completely new ones, to implement ideas or address certain key challenges identified in the paper?
 - Extending current research: have students collectively brainstorm how they would extend or modify the paper, and why. In addition, consider discussing the strengths and weaknesses of the current paper’s approach, and their favorite parts in the paper.
 - Class surveys based on the paper (e.g., google forms): This has served as a great way to understand overall patterns and variations in class opinions regarding design and challenges in intelligent communication technologies.
+- Games and Camp activities: Modifications of games like two truths and a lie, pictionary, and telephone. Can be surprisingly fun and informative. For example, telephone with machine translation, or figuring out how to prompt a model to give two truths and a lie about a paper reading. 
 
-## Tips
-Break students up into small groups (3-4 people max)
-Initiate discussion with example answers to the questions you pose.
-Introduce hypothetical or real-world examples (e.g. products or recent events) to frame the discussion
-Tie your questions to research that you or other folk may be conducting.
-Keep a timer.
+
+## Tips: 
+- Keep a timer during the presentation and activity. Paper presentations should take no more than 12 minutes to give time to activities and discussion. 
+- Break students up into small groups for class activities (3-4 people max)
+- Go around and check in with each group during activities. If a group is doing something interesting, ask them if they are ok being called on to share after the activity. 
+- Introduce hypothetical or real-world examples (e.g. products or recent events) to frame the discussion
+- Tie your questions to research that you or other folk may be conducting.
+- To keep the discussion going, read all reading responses by the other students that week and integrate them into the discussion. You should prepare 8-10 discussion questions about the papers. These should be creative questions that do not have easy answers. The questions should be the result of your attempts to understand the material, its implications, and its connections with other work. 
+- Be ready to call on people at the start of the discussion. If you don’t feel comfortable cold-calling on anyone, you can ask people beforehand if they are willing to be called on to share something from their reading reflection. 
 
 ## Contribution statement 
 
 We expect both discussion leads to participate equally in the presentation, activity, and project. To help ensure equal participation. Each discussion lead should include 1-2 sentences documenting their specific contribution to preparing and leading the class discussion. 
 
-  
+## Signing up for a discussion lead
+
+Everyone must sign up for one discussion lead during the semester. You are required to lead a discussion with at least one other student. We will share the sign-in sheet in the first day of class. Anyone who has not signed up by the end of the first week of class will be assigned randomly to a discussion lead slot. 
+
 # Class participation
 
-You are expected to attend and actively participate in every class session. To make the most of this class and not disrupt others, I expect you to be on time and ready to discuss the readings. If you can’t make it because of sickness or a family emergency or similar, please let me know before class.
+Because this is a discussion-based class, you are expected to attend and actively participate in every class session. To make the most of this class and not disrupt others, I expect you to be on time and ready to discuss the readings. If you can’t make it because of sickness or a family emergency or similar, please let me know before class. If you have more than 5 unexcused absences during the semester, each additional missed class will incur a 5 point deduction of class participation (class participation is out of a total of 100 points, representing 15\% of your grade in the class). 
 
 # Class Project 
-A major goal of the course is to help students critically reflect and build upon the ideas introduced in class. You will work on a group research project related to language, interfaces and communication throughout the semester. We have various milestones for the project below.  
+A major goal of the course is to help you critically reflect and build upon the ideas introduced in class. In a team of 2-3 pick and develop a research idea or question that interests you, plan a study or analysis, execute on your method, and report and discuss your results. The class project will have many sub-assignments and check-ins to ensure you are making progress on the project throughout the course. The project is meant to expose you to doing research in either HCI or NLP. To get some ideas, you can look at the last year or two of conference proceedings in either an HCI venue (like [CHI](https://programs.sigchi.org/chi/2024)) or an NLP venue (like [ACL](https://2024.aclweb.org/program/)). 
+
+## Finding a group for the class project
+All class projects will be done in groups. You will have the first two weeks of class to find and join a group for the project. Groups should be no larger than three people. If by the end of the two weeks you don’t have a group, that is totally fine, we will assign you one. 
+
 
 ## Project pitches
-Pick and develop a research idea or question that interests you, develop your own views, and come up with pitches for two new research projects. The projects can fall into two broad categories: 
-
-- A **data** project analyzing language use in some communication context (e.g., conversations on reddit, the wording of security and privacy instructions). Note that the communication does not have to be two-way, social or synchronous: it could be conversations on reddit (two-way, social communication), or newspaper articles (one-way). 
-
-- A **design** project proposing a new system (or modifying an existing one) to enhance communication through language. 
-
-More details on the two directions below.  Use the research pitch session to get early feedback from the instructor and your peers on topic selection and potential resources for literature survey. Make sure to include research questions (RQs), why the problem is important (why), and how you plan to solve it in each research pitch (how). There are some great resources online on how to approach research and selecting what problems to work on (or not): 
+Pick and develop a research idea or question that interests you, develop your own views, and come up with pitches for two new research projects. Use the research pitch session to get early feedback from the instructor and your peers on topic selection and potential resources for literature survey. Make sure to include research questions (RQs), why the problem is important (why), and how you plan to solve it in each research pitch (how). There are some great resources online on how to approach research and selecting what problems to work on (or not): 
 
 - Read [this section](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/edit?fbclid=IwAR3xKxG5ZnYWARZf7UM0mfPBrVboCJFO1zFnYyRM0a1r3crpwgHiQodk2Z4#heading=h.nqqjfn2gi57d) on “Selecting Problems” on Page 6 in the "Syllabus for Eric’s PhD students".
 - First two sections of [Daniel Fried's lecture on conducting NLP research](https://cmu-anlp.github.io/assets/slides/anlp-10-experimentation.pdf)
@@ -124,21 +141,10 @@ The proposal will include a written document (the project proposal report, cover
 - For a design project: the feasibility of your system design and how you would address any challenges that may arise.
 - Timeline for the proposed project, clearly identifying next steps and possible roadblocks or risks. 
 
-<!-- Criteria for project proposal talk
-- Quality of problem statement.
-- Thoughtful use of course readings in a presentation to motivate your research
-- Insight into interactive computing and language technology issues to identify current gaps in existing literature.
-- Research questions that can be answered with empirical results (RQ/Why/How).
-- Proposing a complete research study or system design. For example, coming up with either a quantitative study to answer clearly-defined research questions or building a new system, chrome plugin, or ML framework to solve some current challenge. You’re free to choose your favorite methods that are appropriate to answering your research questions as long as you justify your methods.
-- For a data project: a plan for how you're going to collect data and drawbacks to your approach. 
-- For a design project: the feasibility of your system design and how you would address any challenges that may arise.
-- Timeline for the proposed project, clearly identifying next steps and possible roadblocks or risks.  -->
-
-
 
 ## Project proposal report
 
-We will be using the [CHI paper format](https://chi2024.acm.org/submission-guides/chi-publication-formats/) for both the project proposal and final report. 
+We will be using the [CHI paper format](https://chi2024.acm.org/submission-guides/chi-publication-formats/) (two column format) for both the project proposal and final report. 
 Your project proposal report will be a first draft of your final paper that you will continue to fill in over the course of the semester. The project proposal report should reflect what you presented in the proposal presentation. It should include an introduction, related work, proposed study design and methodologies, timeline, distribution of work among students, and expected project outcomes and contributions. For the project proposal, try to keep the PDF to under 7 pages. 
 
 Note: A single-paragraph collaboration plan will be required in each student's project proposal to receive full credit. Eventually, a single-paragraph contribution statement summarizing each group member’s contribution to the project will be required in each student’s final paper.
@@ -175,4 +181,3 @@ You will also present your project in a final talk. The talk should be a total o
 ### What do you need to provide in the contribution statement?
 Each group member should include a single paragraph (ideally at the end of their final paper) documenting their specific contribution to the group's successful completion of the: 1, project, and 2, proposal document + final paper. Include details from each stage of the project: ideation, formulation, execution, presentation.
 
-I will be asking all group members to individually provide member evaluations to me along with individual contribution statements in the final papers, and allocating points based on satisfactory participation in group projects.
