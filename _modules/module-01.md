@@ -2,6 +2,6 @@
 title: Intro
 ---
 
-Ja 21
+Jan 21
 : Intro, Syllabus and FAQs
-  : [Slides](https://docs.google.com/presentation/d/1xixOVV8OGK2OpeuQIMj7TCXrc219kA2e_zmZwcqZIBo/edit?usp=sharing)
+  : [Slides](https://docs.google.com/presentation/d/1Z82JdAvzyoAb-oQF-Ie3WDO_z7CgsQukHWP7jSYhuBM/edit?usp=sharing)

@@ -1,9 +1,10 @@
 ---
-title: Foundations - Interactive Text
+title: Foundations - Human-Centered NLP
 ---
 
-Tue Sept 10
-: Mark Bernstein. 2009. [On hypertext narrative](https://drive.google.com/file/d/1P6aaZEZ8HSSeylhnuJKN6RNJWBR9eweM/view?usp=sharing). In Proceedings of the 20th ACM conference on Hypertext and hypermedia (HT '09).  Craig S. Tashman and W. Keith Edwards. 2011. [LiquidText: a flexible, multitouch environment to support active reading](https://drive.google.com/file/d/1KCSN2VboLqaene51zeu9hyu3p6cBNwh7/view?usp=sharing). In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '11).
+Jan 30
+: Mitchell L. Gordon, Michelle S. Lam, Joon Sung Park, Kayur Patel, Jeff Hancock, Tatsunori Hashimoto, and Michael S. Bernstein. 2022. [Jury Learning: Integrating Dissenting Voices into Machine Learning Models](https://drive.google.com/file/d/1pt6RwMFvnnaLB-vIZtXJYnSzrFtR7xFr/view?usp=sharing). In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (CHI '22). <br> Marco Tulio Ribeiro, Tongshuang Wu, Carlos Guestrin, and Sameer Singh. 2020. [Beyond Accuracy: Behavioral Testing of NLP Models with CheckList](https://drive.google.com/file/d/1e5wjpT1miEbuNWnl3hNi6uHC0hlEzL0o/view?usp=sharing). In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics.
 
-Thurs Sept 12
-: Pierre Dragicevic, Yvonne Jansen, Abhraneel Sarma, Matthew Kay, and Fanny Chevalier. 2019. [Increasing the Transparency of Research Papers with Explorable Multiverse Analyses](https://drive.google.com/file/d/15CBXhGlZH-pw_AVTQcWrCoIupP3JY8q0/view?usp=sharing). In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19). <br> Hohman, Fred & Conlen, Matthew & Heer, Jeffrey & Chau, Polo. 2020. [Communicating with Interactive Articles](https://distill.pub/2020/communicating-with-interactive-articles/). Distill. 
+
+Feb 4
+: Elizabeth Clark, Tal August, Sofia Serrano, Nikita Haduong, Suchin Gururangan, and Noah A. Smith. 2021. [All That’s ‘Human’ Is Not Gold: Evaluating Human Evaluation of Generated Text](https://drive.google.com/file/d/1QMnsEok0Sr9h2m1TPVvpEeu5TnVEEmMC/view?usp=sharing). In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics <br> Joseph, S.A., Chen, L., Trienes, J., Göke, H.L., Coers, M., Xu, W., Wallace, B.C., & Li, J.J. (2024). [FactPICO: Factuality Evaluation for Plain Language Summarization of Medical Evidence](https://drive.google.com/file/d/1EA0C0dVoXA88etiDTa7Y9qNovLnApxfU/view?usp=sharing). Arxiv
