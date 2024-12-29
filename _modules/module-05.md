@@ -1,9 +1,15 @@
 ---
-title: Foundations - NLP
+title: Augmented Reading and Writing
 ---
 
-Tue Sept 24
-: Qian Yang, Justin Cranshaw, Saleema Amershi, Shamsi T. Iqbal, and Jaime Teevan. 2019. [Sketching NLP: A Case Study of Exploring the Right Things To Design with Language Intelligence](https://drive.google.com/file/d/14HyqkFa4O9XZ7XZii37Nmi9h7dGvkbG_/view?usp=sharing). In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19). <br> Minsuk Chang, Stefania Druga, Alexander J. Fiannaca, Pedro Vergani, Chinmay Kulkarni, Carrie J Cai, and Michael Terry. 2023. [The Prompt Artists](https://drive.google.com/file/d/1CA5EBkJLD8LgMtQj5O2q0-riRJrGTb5d/view?usp=sharing). In Proceedings of the 15th Conference on Creativity and Cognition (C&C '23). 
+Febr 20
+: Hohman, Fred & Conlen, Matthew & Heer, Jeffrey & Chau, Polo. 2020. [Communicating with Interactive Articles](https://distill.pub/2020/communicating-with-interactive-articles/). Distill.  <br> Mark Bernstein. 2009. [On hypertext narrative](https://drive.google.com/file/d/1P6aaZEZ8HSSeylhnuJKN6RNJWBR9eweM/view?usp=sharing). In Proceedings of the 20th ACM conference on Hypertext and hypermedia (HT '09). 
 
-Thurs Sept 26
-: Elizabeth Clark, Tal August, Sofia Serrano, Nikita Haduong, Suchin Gururangan, and Noah A. Smith. 2021. [All That’s ‘Human’ Is Not Gold: Evaluating Human Evaluation of Generated Text](https://drive.google.com/file/d/1QMnsEok0Sr9h2m1TPVvpEeu5TnVEEmMC/view?usp=sharing). In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics <br> Marco Tulio Ribeiro, Tongshuang Wu, Carlos Guestrin, and Sameer Singh. 2020. [Beyond Accuracy: Behavioral Testing of NLP Models with CheckList](https://drive.google.com/file/d/1e5wjpT1miEbuNWnl3hNi6uHC0hlEzL0o/view?usp=sharing). In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics.
+Febr 25
+: Pierre Dragicevic, Yvonne Jansen, Abhraneel Sarma, Matthew Kay, and Fanny Chevalier. 2019. [Increasing the Transparency of Research Papers with Explorable Multiverse Analyses](https://drive.google.com/file/d/15CBXhGlZH-pw_AVTQcWrCoIupP3JY8q0/view?usp=sharing). In Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems (CHI '19).  <br> Craig S. Tashman and W. Keith Edwards. 2011. [LiquidText: a flexible, multitouch environment to support active reading](https://drive.google.com/file/d/1KCSN2VboLqaene51zeu9hyu3p6cBNwh7/view?usp=sharing). In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '11).
+
+Febr 27
+: Andrew Head, Kyle Lo, Dongyeop Kang, Raymond Fok, Sam Skjonsberg, Daniel S. Weld, and Marti A. Hearst. 2021. [Augmenting Scientific Papers with Just-in-Time, Position-Sensitive Definitions of Terms and Symbols](https://drive.google.com/file/d/1Txi0E6cNbOrRBRoEK0uKiQirLT0EXnrt/view?usp=sharing). In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI '21). <br> Kyle Lo, et al. 2023. [The semantic reader project: Augmenting scholarly documents through ai-powered interactive reading interfaces](https://drive.google.com/file/d/1R-P8MdRxCMsC5uTd9tICUK_R3HmpGwjD/view?usp=sharing). CACM.
+
+March 4
+: Katy Ilonka Gero, Vivian Liu, and Lydia Chilton. 2022. [Sparks: Inspiration for Science Writing using Language Models](https://drive.google.com/file/d/1AL71Qt6T35CcmMhfK-JfP3s4R9hXPZ4M/view?usp=sharing). In Proceedings of the 2022 ACM Designing Interactive Systems Conference (DIS '22) <br> Mina Lee, Percy Liang, and Qian Yang. 2022. [CoAuthor: Designing a Human-AI Collaborative Writing Dataset for Exploring Language Model Capabilities](https://drive.google.com/file/d/1Fo7FLoxc6AW4wIuPjzkcoN1N3j8DRbuO/view?usp=sharing). In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (CHI '22). 

@@ -8,3 +8,6 @@ Jan 30
 
 Feb 4
 : Elizabeth Clark, Tal August, Sofia Serrano, Nikita Haduong, Suchin Gururangan, and Noah A. Smith. 2021. [All That’s ‘Human’ Is Not Gold: Evaluating Human Evaluation of Generated Text](https://drive.google.com/file/d/1QMnsEok0Sr9h2m1TPVvpEeu5TnVEEmMC/view?usp=sharing). In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics <br> Joseph, S.A., Chen, L., Trienes, J., Göke, H.L., Coers, M., Xu, W., Wallace, B.C., & Li, J.J. (2024). [FactPICO: Factuality Evaluation for Plain Language Summarization of Medical Evidence](https://drive.google.com/file/d/1EA0C0dVoXA88etiDTa7Y9qNovLnApxfU/view?usp=sharing). Arxiv
+
+Feb 6
+: Alisa Liu, Xiaochuang Han, Yizhong Wang, Yulia Tsvetkov, Yejin Choi, and Noah A. Smith. 2024. [Tuning Language Models by Proxy](https://drive.google.com/file/d/1hugK9M066sD5kpcvexpcZNFYvsgArXxc/view?usp=drive_link). In Proceedings of First Annual Conference on Language Models (COLM) <br>  Ari Holtzman, Jan Buys, Li Du, Maxwell Forbes, and Yejin Choi. 2020. [The Curious Case of Neural Text Degeneration](https://drive.google.com/file/d/16nYYUWGnQ4JOVFbeTTdxbXBBOZkSvv9r/view?usp=sharing). ICLR

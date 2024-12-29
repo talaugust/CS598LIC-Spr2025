@@ -1,9 +1,12 @@
 ---
-title: Research Pitches 
+title: Project Proposal 
 ---
 
-Tue Oct 1
-: Project Pitches 
+March 6
+: Project Proposals  **Project Pitches Due**{: .label .label-red }
 
-Thurs Oct 3
-: Project Pitches
+March 11
+: Project Proposals
+
+March 13
+: Project Proposals

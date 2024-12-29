@@ -2,8 +2,11 @@
 title: Research Pitches 
 ---
 
-Tue Sept 17
+Feb 11
 : Project Pitches **Project Pitches Due**{: .label .label-red }
 
-Thurs Sept 19
+Feb 13
+: Project Pitches
+
+Feb 18
 : Project Pitches
