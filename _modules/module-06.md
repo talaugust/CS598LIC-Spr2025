@@ -3,7 +3,7 @@ title: Project Proposal
 ---
 
 March 6
-: Project Proposals  **Project Pitches Due**{: .label .label-red }
+: Project Proposals  **Project Proposals Due**{: .label .label-red }
 
 March 11
 : Project Proposals
