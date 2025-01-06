@@ -3,7 +3,7 @@ title: Foundations - Human-Centered NLP
 ---
 
 Jan 30
-: Mitchell L. Gordon, Michelle S. Lam, Joon Sung Park, Kayur Patel, Jeff Hancock, Tatsunori Hashimoto, and Michael S. Bernstein. 2022. [Jury Learning: Integrating Dissenting Voices into Machine Learning Models](https://drive.google.com/file/d/1pt6RwMFvnnaLB-vIZtXJYnSzrFtR7xFr/view?usp=sharing). In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (CHI '22). <br> Marco Tulio Ribeiro, Tongshuang Wu, Carlos Guestrin, and Sameer Singh. 2020. [Beyond Accuracy: Behavioral Testing of NLP Models with CheckList](https://drive.google.com/file/d/1e5wjpT1miEbuNWnl3hNi6uHC0hlEzL0o/view?usp=sharing). In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics.
+: Mitchell L. Gordon, Michelle S. Lam, Joon Sung Park, Kayur Patel, Jeff Hancock, Tatsunori Hashimoto, and Michael S. Bernstein. 2022. [Jury Learning: Integrating Dissenting Voices into Machine Learning Models](https://drive.google.com/file/d/1pt6RwMFvnnaLB-vIZtXJYnSzrFtR7xFr/view?usp=sharing). In Proceedings of the 2022 CHI Conference on Human Factors in Computing Systems (CHI '22). <br> Marco Tulio Ribeiro, Tongshuang Wu, Carlos Guestrin, and Sameer Singh. 2020. [Beyond Accuracy: Behavioral Testing of NLP Models with CheckList](https://drive.google.com/file/d/1e5wjpT1miEbuNWnl3hNi6uHC0hlEzL0o/view?usp=sharing). In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics. <br> **Optional Readings**{: .label } test
 
 
 Feb 4
