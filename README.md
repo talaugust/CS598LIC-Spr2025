@@ -18,13 +18,13 @@ A special topics course in human-computer interaction and natural language proce
 **Instructor**: Tal August \
 **TA**: Ziheng Huang \
 **Office hours**: By appointment \
-**Email**: taugust@illinois.edu, zihengh2@illinois.edu \ 
+**Email**: taugust@illinois.edu, zihengh2@illinois.edu 
 
 
 
 # Useful Links
-- [Request a meeting from course staff](https://forms.gle/9bkD3b54Ct4mhG9R8) 
-- Course [Canvas](https://canvas.illinois.edu/courses/48566) page 
+- [Request a meeting from course staff](https://forms.gle/29RViy6JLtk9o33B8) 
+- Course [Canvas](https://canvas.illinois.edu/courses/56270) page 
 - Discussion Lead [signup sheet](https://docs.google.com/spreadsheets/d/1eMa9mfGvB0RjBI9ShDLr_yEIkkKEoxHkffGwHhqS6TI/edit?usp=sharing)
 - Project Pitch [signups](https://docs.google.com/spreadsheets/d/1ARy611WDLcx_4SXbLOWNMD-1fnT1xmxnzoCbR6aIQxA/edit?usp=sharing)
 <!-- - Final Project Talk [signups](https://docs.google.com/spreadsheets/d/164zK-dC-iAy-HDUjOKTPTsHE1iHUQSWsU1jSP5uo3CE/edit?usp=sharing) -->
