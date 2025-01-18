@@ -16,9 +16,9 @@ A special topics course in human-computer interaction and natural language proce
 **Time**: 09:30 - 10:45 am, Tuesday/Thursday \
 **Location**: 0218 Siebel  \
 **Instructor**: Tal August \
-**TA**: David Zhou \
+**TA**: Ziheng Huang \
 **Office hours**: By appointment \
-**Email**: taugust@illinois.edu, david23@illinois.edu 
+**Email**: taugust@illinois.edu, zihengh2@illinois.edu \ 
 
 
 
