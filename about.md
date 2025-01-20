@@ -20,7 +20,7 @@ description: >-
 
 In this course, we will explore recent advances in computing for augmenting human communication through language adaptation. We will cover foundational sociolinguistic theories of communication, and investigate new advances in HCI, NLP, and AI that aim to improve how we communicate with one another online. We will learn how to identify when language will impact behavior through empirical studies, and how to design, build and evaluate intelligent reading and writing tools. 
 
-We will focus class on in-person discussions around research papers and advances. Students will be expected to read papers, post reading reflections, share and comment on papers and ideas, and lead at least one class discussion. The class will culminate in a research project focused on studying language’s effect on behavior and/or building a tool using current language technologies. Classes will not be recorded.
+**This is a research-focused class**. We will spend most classes on in-person discussions around research papers. Students will be expected to read papers, post reading reflections, share and comment on papers and ideas, and lead at least one class discussion. The class will culminate in a research project focused on studying language’s effect on behavior and/or building a tool using current language technologies. Classes will not be recorded.
 
 ## Learning Objectives 
 - Understand current research issues at the intersection of HCI and NLP
