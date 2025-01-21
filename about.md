@@ -31,7 +31,7 @@ In this course, we will explore recent advances in computing for augmenting huma
 ## Grading
 There is no exam in this course. 
 
-- Reading Reflections: 20%
+- Reading Remarks: 20%
 - Leading a class discussion: 15%
 - Class participation: 15%
 - Project: 50%
