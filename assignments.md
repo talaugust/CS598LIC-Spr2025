@@ -34,7 +34,7 @@ Write 1-2 paragraphs (5-10 sentences), focused on what you learned from one of t
 
 - Option 1: One paragraph summarizing the contributions of the paper and one paragraph about potential improvements, such as how someone could build on the existing work.
 - Option 2: Two paragraphs that describe one or two themes you noticed in the paper. This is not a summary of the paper, but should instead answer questions like: what is the overall topic of the paper? 
-- Option 3: Two to three thoughtful discussion questions based on the paper.
+- Option 3: Two to three thoughtful discussion questions based on the paper. Please elaborate on each one. 
 - Option 4: Two paragraphs reflecting on this paper could aid you in your own research. Given enough of an introduction to your research so that other students will see how the paper fits in with your work.  
 - Option 5: Two paragraphs introducing a new paper that you think builds on the class paper. Briefly summarize the new paper and explain what new ideas it introduces to the current reading. 
 
